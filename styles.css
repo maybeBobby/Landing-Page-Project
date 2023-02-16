@@ -1,0 +1,12 @@
+header {
+    width: 100vw;
+    height: 10%;
+    position: absolute;
+    top: 0;
+}
+
+img.logo {
+    object-fit: scale-down;
+    width: 50px;
+    height: auto;
+}
